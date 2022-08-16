@@ -1,0 +1,1 @@
+<textarea name="<?php echo $textarea_name; ?>"></textarea>
